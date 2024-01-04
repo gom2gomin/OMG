@@ -37,30 +37,24 @@
 </div>
 
 
-<div align=left><h2>🔥 프로젝트 팀원 소개 및 주요 역할 분담 🔥</h2></div>
+<div align=left><h2>🔥 프로젝트 내 역할🔥</h2></div>
 
-**👑팀장 박진기** : 
-
-**🐹팀원 김태현** : 공지사항 CRUD
-
-**🐹팀원 전준오** : 
-
-**🐹팀원 노보경** : 
-
-**🐹팀원 유연아** : 
-
-**🐹팀원 곽승현** : 사원 CRU
-
-**🐹팀원 석유림** : 
-
-**🐹팀원 김찬하** : 
+**🐹팀원 곽승현** : 공통CSS 관리 & 메인 화면 및 사원 CRUD
 
 
 
 <div align=left><h2>💻 화면 구성</h2></div>
-
-
-
+**[메인화면]**
+<img src="OMG/src/main/webapp/upload/sh/mainBoard.png">
+__[사원 등록]__
+<img src="OMG/src/main/webapp/upload/sh/memberRegister.png">
+__[유효성 검사 문구]__
+<img src="OMG/src/main/webapp/upload/sh/memberR_email.png">
+<img src="OMG/src/main/webapp/upload/sh/memberR_pwd.png">
+__[사원 리스트]__
+<img src="OMG/src/main/webapp/upload/sh/memberList.png">
+__[사원 수정]__
+<img src="OMG/src/main/webapp/upload/sh/memberUpdate.png">
 <div align=left><h2>💡 주요 기능 상세</h2></div>
 
 
