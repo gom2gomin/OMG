@@ -1,5 +1,8 @@
 <div align=left><h2>🚩주문/발주 관리 프로그램🚩</h2></div>
 
+### 💡PPT
+[곽승현_OMG_MEMBER.pdf](https://github.com/gom2gomin/dadok/files/13901680/_OMG_MEMBER.pdf)
+
 ### 💡소개
 
 + 수작업 및 분산된 시스템으로 주문/재고 프로세스를 수행하고 있는 소기업의 업무 정확성과 효율성 저하
